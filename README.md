@@ -1,5 +1,7 @@
 # Autonomous driving unit with Puzzlebot and YOLO
 
+# [Read the report](report.pdf)
+
 ## Authors
 
 Esteban Padilla Cerdio
