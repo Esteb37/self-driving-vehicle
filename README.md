@@ -2,6 +2,8 @@
 
 # [Read the report](report.pdf)
 
+[![Watch the video](https://img.youtube.com/vi/yxI0Xkfe-to/default.jpg)](https://youtu.be/yxI0Xkfe-to)
+
 ## Authors
 
 Esteban Padilla Cerdio
