@@ -2,7 +2,7 @@
 
 # [Read the report](report.pdf)
 
-[![Watch the video](https://img.youtube.com/vi/yxI0Xkfe-to/hqdefault.jpg)](https://youtu.be/yxI0Xkfe-to)
+[![Watch the video](https://img.youtube.com/vi/yxI0Xkfe-to/maxres1.jpg)](https://youtu.be/yxI0Xkfe-to)
 
 ## Authors
 
